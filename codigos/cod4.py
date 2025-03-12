@@ -15,7 +15,7 @@ class Jugador():
         else:
             self.permitir_acceso()
 
-# Objeto a partir de la clase:
+# Objeto a partir de la clase :
 jugador1 = Jugador()
 jugador2 = Jugador()
 
