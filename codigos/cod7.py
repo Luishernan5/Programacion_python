@@ -15,7 +15,7 @@ class Policia(Ciudadano):
     def __init__(self, nombre):
         super().__init__(nombre, "policía", "000")
 
-persona1 = Ciudadano("Carlos", "Cirujano", "789")
+persona1 = Ciudadano("Luis", "Cirujano", "789")
 persona2 = Medico("Juan") 
 persona3 = Policia("Sergio")
 
