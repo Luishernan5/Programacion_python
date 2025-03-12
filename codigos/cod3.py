@@ -1,5 +1,5 @@
 class NombreClase():
 
     def funcion():
-        print("Funcion llamada.")
+        print("Funcion llamada .")
     funcion()
