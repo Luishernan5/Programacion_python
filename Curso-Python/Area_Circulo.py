@@ -1,6 +1,6 @@
 """
 Ejercicio 4: Calcular el area de un circulo con un 
-radio ingresado.
+radio ingresado .
 """
 
 import math
