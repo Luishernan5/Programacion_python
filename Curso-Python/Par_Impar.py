@@ -1,3 +1,7 @@
+"""
+Ejercicio 1: Ingreso de un numero y mostrar
+si es par o impar.
+"""
 var = True
 while var:
     print("---------------------------------------------")
