@@ -1,5 +1,5 @@
 """
-Ejercicio 2: Suma de dos números
+Ejercicio 9: Suma de dos números
 y mostrar resultado.
 """
 numero1 = float(input("Ingresa un numero: "))
