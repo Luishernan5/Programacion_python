@@ -9,5 +9,5 @@ while var:
         nueva_cadena = cadena.replace("o", "x")
         print(f"La nueva cadena de {cadena} es: ", nueva_cadena)
     else:
-        print("Saliendo...")
+        print("Saliendo....")
         var = False
