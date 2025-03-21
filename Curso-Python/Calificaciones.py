@@ -2,7 +2,7 @@
 Ejercicio 3: Ingreso de califcaciones para las materias,
 imprimir cada calificacion y calcular el promedio.
 """
-materias = ["Español", "Matematicas", "Ingles", "Fisíca"]
+materias = ["Español", "Matematicas", "Ingles", "Fisíca", "Desarrollo S"]
 calificaciones = []
 sumas_cal = 0
 
