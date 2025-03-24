@@ -5,7 +5,7 @@ radio ingresado .
 
 import math
 
-radio = float(input("Ingresa el radio del circulo: "))
+radio = float(input("Ingresa el radio del circulo:"))
 
 area = math.pi * radio ** 2
 print("El area de tu circulo es: ", area)
