@@ -7,4 +7,4 @@ num1 = float(input("Ingresa un numero:"))
 num2 = float(input("Ingresa otro numero:"))
 
 multiplicacion = num1 * num2
-print("El resultado de la multiplicacion es: ", multiplicacion)
+print("El resultado de la multiplicacion es:", multiplicacion)
