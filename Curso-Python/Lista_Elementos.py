@@ -5,4 +5,4 @@ e imprimirla.
 
 lista1 = [1, "Hola", 3.5, True, False, 0.1]
 
-print("La lista de elementos es: ", lista1)
+print("La lista de elementos es:", lista1)
