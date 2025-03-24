@@ -6,7 +6,7 @@ materias = ["Español", "Matematicas", "Ingles", "Fisíca", "Desarrollo S"]
 calificaciones = []
 sumas_cal = 0
 
-print("-------------------------------------------")
+print("--------------------------------------------")
 for materia in materias:
     for _ in range(1):
         calificacion = float(input(f"Ingresa tu calificacion de {materia}: "))
