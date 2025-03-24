@@ -5,7 +5,7 @@ minusculas.
 
 var = True
 while var: 
-    mayus = input("Ingresa una cadena en mayusculas (0 para salir): ")
+    mayus = input("Ingresa una cadena en mayusculas (0 para salir):")
     if mayus == "0":
         print("Saliendo....")
         var = False
