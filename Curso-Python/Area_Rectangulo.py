@@ -1,6 +1,6 @@
 """
 Ejercicio 15: Calcula el area de un rectangulo
-donde el usuario ingresa la base y la altura.
+donde el usuario ingresa la base y la altura:
 """
 
 base = int(input("Ingresa la longitud de la base:"))
