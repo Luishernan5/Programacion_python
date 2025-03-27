@@ -1,5 +1,5 @@
 """
-Ejercicio 18: Extrae una subcadena de una cadena dada.
+Ejercicio 18: Extrae una subcadena de una cadena dada:
 """
 var = True
 while var:
