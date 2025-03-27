@@ -1,5 +1,5 @@
 """
-Ejercicio 5: Concatenar dos cadenas de texto.
+Ejercicio 5: Concatenar dos cadenas de texto:
 """
 
 cadena1 = "Hola."
