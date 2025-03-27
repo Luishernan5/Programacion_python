@@ -1,6 +1,6 @@
 """
 Ejercicio 8: Crea una cadena de texto y 
-muestra su longitud.
+muestra su longitud:
 """
 
 cadena = input("Ingresa una cadena de texto:")
