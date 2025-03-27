@@ -1,5 +1,5 @@
 """
-Ejercicio 13: Invertir una cadena.
+Ejercicio 13: Invertir una cadena:
 """
 var = True
 while var:
