@@ -1,6 +1,6 @@
 """
 Ejercicio 16: Convierte un numero entero a 
-una cadena.
+una cadena:
 """
 
 numero = int(input("Ingresa un numero: "))
