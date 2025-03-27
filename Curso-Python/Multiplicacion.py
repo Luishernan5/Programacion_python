@@ -1,6 +1,6 @@
 """
 Ejercicio 7: Realiza una multiplicacion de dos numeros e
-imprimir el resultado.
+imprimir el resultado:
 """
 
 num1 = float(input("Ingresa un numero:"))
