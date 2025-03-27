@@ -1,6 +1,6 @@
 """
 Ejercicio 19: Pasar una cadena de mayusculas a 
-minusculas.
+minusculas:
 """
 
 var = True
